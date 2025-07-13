@@ -1,0 +1,7 @@
+# .github/labeler.yml
+documentation:
+  - '**/*.md'
+frontend:
+  - 'src/**/*.{js,jsx,ts,tsx}'
+backend:
+  - 'api/**/*.{py,js}'
